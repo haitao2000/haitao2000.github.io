@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiahaitao.cn</id>
-    <title>Gridea</title>
-    <updated>2024-05-15T08:08:32.279Z</updated>
+    <title>不止</title>
+    <updated>2024-05-15T08:23:09.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiahaitao.cn"/>
     <link rel="self" href="https://xiahaitao.cn/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>打怪升级</subtitle>
     <logo>https://xiahaitao.cn/images/avatar.png</logo>
     <icon>https://xiahaitao.cn/favicon.ico</icon>
-    <rights>All rights reserved 2024, Gridea</rights>
+    <rights>All rights reserved 2024, 不止</rights>
+    <entry>
+        <title type="html"><![CDATA[130.打开很简单]]></title>
+        <id>https://xiahaitao.cn/post/leetdcode/</id>
+        <link href="https://xiahaitao.cn/post/leetdcode/">
+        </link>
+        <updated>2024-05-15T08:12:10.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://xiahaitao.cn/post/hello-gridea/</id>
