@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.xiahaitao.cn</id>
     <title>不止</title>
-    <updated>2024-05-15T09:28:42.000Z</updated>
+    <updated>2024-05-16T01:35:28.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.xiahaitao.cn"/>
     <link rel="self" href="https://www.xiahaitao.cn/atom.xml"/>
@@ -11,11 +11,28 @@
     <icon>https://www.xiahaitao.cn/favicon.ico</icon>
     <rights>All rights reserved 2024, 不止</rights>
     <entry>
-        <title type="html"><![CDATA[130.打开很简单]]></title>
+        <title type="html"><![CDATA[169. 多数元素]]></title>
         <id>https://www.xiahaitao.cn/post/leetdcode/</id>
         <link href="https://www.xiahaitao.cn/post/leetdcode/">
         </link>
         <updated>2024-05-15T08:12:10.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="description">Description</h2>
+<p>给定一个大小为 n 的数组 nums ，返回其中的多数元素。多数元素是指在数组中出现次数 大于<code>⌊ n/2 ⌋</code>的元素。</p>
+<p>你可以假设数组是非空的，并且给定的数组总是存在多数元素。<br>
+示例 1：</p>
+<blockquote>
+<p>输入：nums = [3,2,3]<br>
+输出：3<br>
+示例 2：<br>
+输入：nums = [2,2,1,1,1,2,2]<br>
+输出：2</p>
+</blockquote>
+<p>提示：<br>
+<code>n == nums.length</code><br>
+<code>1 &lt;= n &lt;= 5 * 104</code><br>
+<code>-109 &lt;= nums[i] &lt;= 109</code></p>
+<p>进阶：尝试设计时间复杂度为 O(n)、空间复杂度为 O(1) 的算法解决此问题。</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
